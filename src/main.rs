@@ -5,6 +5,7 @@ use serde_json::Value;
 
 use gloo_console::log;
 
+mod get_participants;
 mod participants_list;
 mod text_generator;
 
