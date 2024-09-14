@@ -563,6 +563,11 @@ video {
   border-radius: 0.25rem;
 }
 
+.bg-green-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(34 197 94 / var(--tw-bg-opacity));
+}
+
 .bg-sky-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(14 165 233 / var(--tw-bg-opacity));
@@ -584,6 +589,11 @@ video {
 }
 
 /* Add your custom styles here */
+
+.hover\:bg-green-700:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity));
+}
 
 .hover\:bg-sky-700:hover {
   --tw-bg-opacity: 1;

@@ -1,1 +1,3 @@
-/target
+# Generated files
+/target/
+/dist/
